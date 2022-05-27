@@ -4,7 +4,7 @@ Project Title: CAR FOLLOWED BY THE HAND
 Description
 The car is used as if any thing come infront of it in the range of 10 cm to 30 cm , it will detect the object using ultrasonic sensor and move the give signal to motor driver
 and motor driver according to wire connected to it of tyre moves. and IR sensors are used for move the car right or left if any thing comes on any end of the car.
-i used 8 batteries to give charge to motor driver and from that 5v is given to esp. 
+i used 8 batteries to give charge to motor driver and from that 5v is given to ESP. 
 HARDWARE COMPONENTS USED:
 
 1× ESP32
